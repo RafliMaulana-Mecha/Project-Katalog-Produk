@@ -36,6 +36,17 @@ Sebelum menjalankan proyek, pastikan lingkungan pengembangan Anda telah terpasan
 ---
 
 ## Screenshot Aplikasi
-<img width="1252" height="988" alt="image" src="https://github.com/user-attachments/assets/2c8fab2a-5e05-4afc-9583-5b0349238bbe" />
-<img width="1248" height="981" alt="image" src="https://github.com/user-attachments/assets/5eebe4c8-251c-41f8-b5e8-30b32d20c8e7" />
+### 1. Tampilan Awal
+<img width="1252" height="988" alt="image" src="https://github.com/user-attachments/assets/188e265e-6ef0-4478-9274-0d094511fbd6" />
 
+### 2. Tampilan Edit Produk
+<img width="1252" height="988" alt="image" src="https://github.com/user-attachments/assets/0fffccb7-eb0c-4349-9cb6-843cc6b98de6" />
+
+### 3. Tampilan Setelah Produk diedit
+<img width="1252" height="988" alt="image" src="https://github.com/user-attachments/assets/3e49d5d7-345b-4dcb-ae92-7ae22dfcf41c" />
+
+### 4. Tampilan untuk Hapus Produk
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c3ffb47a-f16f-4072-8ca3-3d1aa3e21a9a" />
+
+### 5. Tampilan Setelah Produk berhasil dihapus
+<img width="1252" height="988" alt="image" src="https://github.com/user-attachments/assets/9d3199d8-b376-41c0-8283-7607d960f6fd" />
